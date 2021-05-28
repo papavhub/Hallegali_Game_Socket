@@ -1,5 +1,5 @@
 # Hallegali_Game_Socket
 
-멀티 스레드 소켓 프로그래밍
+Multi Thread Socket Programming
 
-윈속(서버), 자바(클라이언트), 버클리(클라이언트) 이용
+Server & Client use different interface
